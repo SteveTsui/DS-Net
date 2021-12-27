@@ -12,8 +12,8 @@
 
 |Model|Params|Top-1 acc|Download|
 | :-------: | :-------: | :-------: | :-------: |
-|DS-Net-T|10.5|79.0|[model](https://drive.google.com/file/d/1LQN95zSfmROSh7AVDAVTWCqH3EHZcATv/view?usp=sharing)|
-|DS-Net-S|23|82.3|[model](https://drive.google.com/file/d/1aqMAimClkkFBHX_VzJ8121XCdbYPz777/view?usp=sharing)|
+|DS-Net-T|10.5M|79.0|[model](https://drive.google.com/file/d/1LQN95zSfmROSh7AVDAVTWCqH3EHZcATv/view?usp=sharing)|
+|DS-Net-S|23M|82.3|[model](https://drive.google.com/file/d/1aqMAimClkkFBHX_VzJ8121XCdbYPz777/view?usp=sharing)|
 
 ## Evaluation
 ```
